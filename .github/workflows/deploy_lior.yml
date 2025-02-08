@@ -1,8 +1,8 @@
 name: wxread_lior
 
 on:
-  schedule:
-    - cron: '0 17 * * *'  # 每天北京时间凌晨1点执行（UTC时间17点）
+  # schedule:
+    # - cron: '0 17 * * *'  # 每天北京时间凌晨1点执行（UTC时间17点）
   workflow_dispatch:  # 手动触发
 
 jobs:
