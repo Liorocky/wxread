@@ -1,4 +1,4 @@
-name: wxread
+name: wxread_lior
 
 on:
   schedule:
